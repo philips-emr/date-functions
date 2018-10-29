@@ -1,0 +1,7 @@
+{
+  "name": "date-functions",
+  "version": "0.0.2",
+  "main": "date-functions.js",
+  "repository": "https://github.com/philips-emr/date-functions",
+  "license": "MIT"
+}
