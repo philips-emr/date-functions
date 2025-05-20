@@ -2,8 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "date-functions"
-  description: "date-functions"
+  name: "emr-date-functions"
+  description: "The date-functions.js library, originally created by Baron Schwartz, provides a way to add custom date parsing and formatting capabilities to JavaScript."
   title: "date functions"
   tags:
     - emr
