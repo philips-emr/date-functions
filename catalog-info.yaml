@@ -7,6 +7,12 @@ metadata:
   title: "date functions"
   tags:
     - emr
+  links:
+    - url: https://fortify.philips.com/ssc/html/ssc/version/18127/audit?filterset=69608e28-5b92-4f48-98c2-d9c6d91fa347&orderby=friority&viewTab=code
+      title: Fortify
+      icon: docs
+  annotations:
+    fortify/project: EMR/date-functions
 spec:
   type: "library"
   owner: "group:default/emr-tasy-framework-contributors"
